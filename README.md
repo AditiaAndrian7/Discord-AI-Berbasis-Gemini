@@ -155,8 +155,8 @@ GEMINI_API_KEY=Ganti_Jadi_Apikey_dari_gemini
 
 **Contoh isi file `.env` yang benar:**
 ```env
-DISCORD_TOKEN=MTE5ODU4Nz111111111111222222331234234124
-GEMINI_API_KEY=AIzaSyB12342343245123456789abcdefghijklmnopqrstuvwxyz
+DISCORD_TOKEN=XYZ2345678
+GEMINI_API_KEY=ABCDEFGHIJKL1234567890
 ```
 
 ---
@@ -243,4 +243,5 @@ node index.js
 ---
 
 **Bot siap menemani server Discord kamu! 🚀**
+
 
